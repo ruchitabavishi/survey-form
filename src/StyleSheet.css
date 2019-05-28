@@ -1,0 +1,12 @@
+body {
+    max-width:580px;
+    margin:auto;
+    padding:10px;
+    position:relative;
+    background: #fdfdfd;
+  }
+  .header {
+    margin:5px 10px 0;
+    color:#d46e58;
+    display:inline-block;
+  }
