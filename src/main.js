@@ -4,7 +4,7 @@ var isDisable = true;
 
 function geek() {
     var select = document.getElementById("selectNumber");
-    var url = 'https://findfalcone.herokuapp.com/planets'
+    var url = 'https://flipkart-survey-mock.now.sh/'
     fetch(url).then(function (response) {
         response.json().then(function (data) {
             allQuestion = data
